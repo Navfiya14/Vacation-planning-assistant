@@ -1,1 +1,1 @@
-# Vacation-planning-assistant
+Vacation Planning Assistant is an AI-powered app that helps you plan trips, explore destinations, and find resorts. It provides professional travel suggestions in concise bullet points and can generate images of destinations or resorts automatically. Users can quickly get trip ideas using sidebar suggestions and keep track of their chat history for easy reference. The assistant also offers day-wise itineraries and realistic recommendations for resorts and activities, making vacation planning faster, easier, and more visual.
