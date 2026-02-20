@@ -1,0 +1,288 @@
+Trip ID,Destination,Start date,End date,Duration (days),Traveler age,Traveler gender,Traveler nationality,Accommodation type,Accommodation cost (INR),Transportation type,Transportation cost (INR),Travel Category,Season,Total Trip Cost (INR)
+1,Tokyo,07/01/2021,07-10-2021,10.0,28.0,Female,Korean,Airbnb,41500.0,Train,24900.0,Urban/Tech,Summer,66400.0
+2,Bali,08/10/2021,8/20/2021,11.0,42.0,Female,Spanish,Resort,99600.0,Plane,58100.0,Tropical/Relax,Summer,157700.0
+3,Sydney,09/01/2021,09-10-2021,9.0,45.0,Male,Australian,Hotel,74700.0,Plane,49800.0,Coastal/City,Autumn,124500.0
+4,Dubai,01/01/2022,01-08-2022,8.0,24.0,Female,Emirati,Hotel,83000.0,Plane,66400.0,Luxury/Modern,Winter,149400.0
+5,Tokyo,02/05/2022,2/14/2022,9.0,32.0,Female,American,Hotel,83000.0,Plane,58100.0,Urban/Tech,Winter,141100.0
+6,Rome,03/10/2022,3/20/2022,11.0,30.0,Female,Italian,Hostel,16600.0,Plane,29050.0,History/Food,Spring,45650.0
+7,Sydney,05/01/2022,05-12-2022,11.0,26.0,Female,Chinese,Airbnb,66400.0,Plane,83000.0,Coastal/City,Spring,149400.0
+8,Rome,05/01/2022,05-08-2022,7.0,31.0,Female,Italy,Hotel,91300.0,Train,20750.0,History/Food,Spring,112050.0
+9,Seoul,05/01/2022,05-10-2022,10.0,27.0,Female,Korean,Hotel,66400.0,Train,12450.0,Nightlife/Culture,Spring,78850.0
+10,Japan,05/10/2022,5/18/2022,8.0,30.0,Female,American,Hotel,66400.0,Plane,41500.0,Leisure/General,Spring,107900.0
+11,Rome,06/10/2022,6/17/2022,7.0,38.0,Male,Korean,Hotel,74700.0,Train,33200.0,History/Food,Summer,107900.0
+12,London,06/10/2022,6/15/2022,5.0,38.0,Female,United Kingdom,Hotel,74700.0,Train,12450.0,History/Culture,Summer,87150.0
+13,Paris,06/12/2022,6/19/2022,7.0,25.0,Female,American,Hotel,116200.0,Plane,49800.0,Romance/Art,Summer,166000.0
+14,Sydney,07/01/2022,07-10-2022,9.0,26.0,Male,Canada,Hostel,24900.0,Plane,74700.0,Coastal/City,Summer,99600.0
+15,France,07/02/2022,07-11-2022,9.0,25.0,Male,Korean,Airbnb,49800.0,Car rental,24900.0,Leisure/General,Summer,74700.0
+16,Vancouver,07/10/2022,7/17/2022,7.0,24.0,Male,Korean,Hostel,33200.0,Train,12450.0,Nature/Scenic,Summer,45650.0
+17,Paris,07/12/2022,7/18/2022,6.0,35.0,Female,American,Hotel,99600.0,Plane,66400.0,Romance/Art,Summer,166000.0
+18,Bali,08/05/2022,08-12-2022,7.0,35.0,Female,South Korean,Resort,41500.0,Plane,66400.0,Tropical/Relax,Summer,107900.0
+19,Cancun,08/08/2022,8/16/2022,8.0,41.0,Male,American,Hotel,107900.0,Plane,49800.0,Leisure/General,Summer,157700.0
+20,Bali,08/12/2022,8/20/2022,8.0,30.0,Female,Taiwan,Resort,124500.0,Plane,99600.0,Tropical/Relax,Summer,224100.0
+21,Tokyo,09/01/2022,09-10-2022,9.0,28.0,Female,South Korea,Airbnb,66400.0,Train,41500.0,Urban/Tech,Autumn,107900.0
+22,Tokyo,09/01/2022,09-10-2022,9.0,28.0,Female,Canada,Airbnb,33200.0,Train,16600.0,Urban/Tech,Autumn,49800.0
+23,Tokyo,09/03/2022,09-10-2022,7.0,28.0,Male,Japanese,Hostel,33200.0,Train,24900.0,Urban/Tech,Autumn,58100.0
+24,Phuket,09/05/2022,09-12-2022,7.0,45.0,Male,Singapore,Villa,166000.0,Plane,58100.0,Beach/Nightlife,Autumn,224100.0
+25,Brazil,09/05/2022,9/14/2022,9.0,33.0,Female,Australian,Hostel,12450.0,Bus,4150.0,Leisure/General,Autumn,16600.0
+26,Phnom Penh,09/10/2022,9/15/2022,5.0,33.0,Male,Cambodia,Hostel,16600.0,Plane,41500.0,Leisure/General,Autumn,58100.0
+27,Tokyo,10/05/2022,10/13/2022,8.0,24.0,Male,Korean,Hotel,99600.0,Plane,58100.0,Urban/Tech,Autumn,157700.0
+28,Greece,10/12/2022,10/20/2022,8.0,20.0,Male,American,Airbnb,33200.0,Plane,49800.0,Leisure/General,Autumn,83000.0
+29,Egypt,11/08/2022,11/15/2022,7.0,37.0,Female,Canadian,Hotel,58100.0,Train,8300.0,Leisure/General,Autumn,66400.0
+30,Sydney,11/11/2022,11/21/2022,10.0,30.0,Female,Chinese,Airbnb,74700.0,Plane,83000.0,Coastal/City,Autumn,157700.0
+31,Tokyo,12/10/2022,12/18/2022,8.0,28.0,Female,Chinese,Hostel,41500.0,Plane,74700.0,Urban/Tech,Winter,116200.0
+32,Tokyo,01/01/2023,01-09-2023,8.0,29.0,Male,American,Hotel,83000.0,Train,16600.0,Urban/Tech,Winter,99600.0
+33,Sydney,01/02/2023,01-09-2023,7.0,33.0,Male,Canadian,Airbnb,66400.0,Train,12450.0,Coastal/City,Winter,78850.0
+34,Mexico,01/05/2023,1/15/2023,10.0,42.0,Male,British,Airbnb,41500.0,Plane,66400.0,History/Beach,Winter,107900.0
+35,Cape Town,01/07/2023,1/16/2023,9.0,29.0,Female,British,Vacation rental,66400.0,Car rental,16600.0,Nature/Adventure,Winter,83000.0
+36,Bali,02/10/2023,2/18/2023,8.0,33.0,Female,Canadian,Hotel,66400.0,Plane,66400.0,Tropical/Relax,Winter,132800.0
+37,London,03/05/2023,03-12-2023,7.0,55.0,Male,British,Airbnb,74700.0,Train,8300.0,History/Culture,Spring,83000.0
+38,Paris,05/01/2023,05-07-2023,6.0,35.0,Male,American,Hotel,415000.0,Airplane,207500.0,Romance/Art,Spring,622500.0
+39,Bangkok,05/01/2023,05-07-2023,6.0,29.0,Female,Indian,Airbnb,41500.0,Bus,4150.0,Culture/Street Food,Spring,45650.0
+40,London,05/01/2023,05-08-2023,7.0,35.0,Male,American,Hotel,99600.0,Flight,49800.0,History/Culture,Spring,149400.0
+41,New York,05/08/2023,5/14/2023,6.0,50.0,Male,China,Airbnb,66400.0,Car rental,24900.0,Metropolis/Shopping,Spring,91300.0
+42,Cape Town,06/01/2023,06-10-2023,9.0,45.0,Male,South African,Hostel,249000.0,Car,166000.0,Nature/Adventure,Summer,415000.0
+43,Paris,06/07/2023,6/14/2023,7.0,46.0,Male,British,Hotel,99600.0,Plane,58100.0,Romance/Art,Summer,157700.0
+44,Cancun,07/01/2023,07-08-2023,7.0,45.0,Male,American,Resort,182600.0,Plane,66400.0,Leisure/General,Summer,249000.0
+45,Rome,07/01/2023,07-08-2023,7.0,42.0,Male,Korean,Airbnb,332000.0,Train,124500.0,History/Food,Summer,456500.0
+46,Bali,07/01/2023,07-08-2023,7.0,45.0,Male,Korean,Villa,83000.0,Flight,58100.0,Tropical/Relax,Summer,141100.0
+47,Hawaii,08/01/2023,08-10-2023,9.0,34.0,Male,Korean,Resort,166000.0,Plane,66400.0,Leisure/General,Summer,232400.0
+48,Rio de Janeiro,08/01/2023,08-10-2023,9.0,37.0,Male,Brazilian,Hostel,207500.0,Car,166000.0,Festivals/Beach,Summer,373500.0
+49,Bangkok,09/01/2023,09-08-2023,7.0,34.0,Male,Chinese,Hostel,166000.0,Train,83000.0,Culture/Street Food,Autumn,249000.0
+50,Paris,09/01/2023,09-10-2023,9.0,30.0,Female,American,Hotel,74700.0,Plane,33200.0,Romance/Art,Autumn,107900.0
+51,Cape Town,09/01/2023,09-10-2023,9.0,31.0,Male,South African,Guesthouse,33200.0,Car,24900.0,Nature/Adventure,Autumn,58100.0
+52,Tokyo,09/10/2023,9/17/2023,7.0,26.0,Female,Vietnamese,Airbnb,58100.0,Train,16600.0,Urban/Tech,Autumn,74700.0
+53,Auckland,10/01/2023,10-08-2023,7.0,39.0,Male,New Zealander,Hotel,581000.0,Train,207500.0,Nature/Peaceful,Autumn,788500.0
+54,Paris,10/05/2023,10-10-2023,5.0,42.0,Male,American,Hotel,124500.0,Flight,66400.0,Romance/Art,Autumn,190900.0
+55,Tokyo,10/05/2023,10/15/2023,10.0,45.0,Male,Japanese,Hotel,99600.0,Plane,66400.0,Urban/Tech,Autumn,166000.0
+56,Tokyo,10/10/2023,10/20/2023,10.0,25.0,Male,American,Hostel,41500.0,Bus,8300.0,Urban/Tech,Autumn,49800.0
+57,Rome,11/01/2023,11-08-2023,7.0,29.0,Female,Italian,Airbnb,58100.0,Train,6640.0,History/Food,Autumn,64740.0
+58,Sydney,11/05/2023,11-12-2023,7.0,27.0,Female,South Korean,Airbnb,74700.0,Car rental,16600.0,Coastal/City,Autumn,91300.0
+59,Bangkok,11/12/2023,11/20/2023,8.0,42.0,Male,Japan,Hostel,24900.0,Train,8300.0,Culture/Street Food,Autumn,33200.0
+60,Bali,11/12/2023,11/19/2023,7.0,25.0,Female,Taiwanese,Resort,49800.0,Plane,58100.0,Tropical/Relax,Autumn,107900.0
+61,Sydney,12/05/2023,12-12-2023,7.0,32.0,Male,Australian,Hotel,83000.0,Plane,49800.0,Coastal/City,Winter,132800.0
+62,Rio de Janeiro,01/05/2024,01-12-2024,7.0,25.0,Male,Brazilian,Airbnb,74700.0,Flight,49800.0,Festivals/Beach,Winter,124500.0
+63,Cape Town,01/06/2024,1/14/2024,8.0,27.0,Female,Spain,Airbnb,41500.0,Plane,124500.0,Nature/Adventure,Winter,166000.0
+64,Bali,02/01/2024,02-08-2024,7.0,27.0,Male,American,Resort,182600.0,Plane,83000.0,Tropical/Relax,Winter,265600.0
+65,Bangkok,02/01/2024,02-09-2024,8.0,23.0,Female,Indian,Hostel,33200.0,Bus,4150.0,Culture/Street Food,Winter,37350.0
+66,Sydney,02/05/2024,02-12-2024,7.0,38.0,Male,Australian,Hotel,74700.0,Plane,49800.0,Coastal/City,Winter,124500.0
+67,Dubai,03/10/2024,3/17/2024,7.0,39.0,Male,Emirati,Resort,207500.0,Flight,66400.0,Luxury/Modern,Spring,273900.0
+68,Cancun,04/01/2024,04-08-2024,7.0,27.0,Female,Mexican,Hotel,83000.0,Flight,41500.0,Leisure/General,Spring,124500.0
+69,Rio de Janeiro,04/03/2024,04-10-2024,7.0,33.0,Male,Brazil,Hotel,74700.0,Car rental,33200.0,Festivals/Beach,Spring,107900.0
+70,Barcelona,04/05/2024,4/13/2024,8.0,29.0,Female,Spanish,Airbnb,58100.0,Car rental,20750.0,Architecture/Beach,Spring,78850.0
+71,Paris,05/06/2024,05-12-2024,6.0,39.0,Female,French,Hotel,91300.0,Train,16600.0,Romance/Art,Spring,107900.0
+72,Seoul,05/10/2024,5/18/2024,8.0,27.0,Male,South Korean,Hostel,41500.0,Subway,1660.0,Nightlife/Culture,Spring,43160.0
+73,Honolulu,06/10/2024,6/18/2024,8.0,29.0,Female,Chinese,Resort,249000.0,Flight,99600.0,Leisure/General,Summer,348600.0
+74,Berlin,07/01/2024,07-10-2024,9.0,48.0,Male,German,Hotel,116200.0,Flight,58100.0,Leisure/General,Summer,174300.0
+75,Edinburgh,09/05/2024,09-12-2024,7.0,32.0,Male,Scottish,Hotel,74700.0,Train,12450.0,Leisure/General,Autumn,87150.0
+76,Bangkok,09/08/2024,9/16/2024,8.0,33.0,Female,Indian,Hostel,24900.0,Plane,58100.0,Culture/Street Food,Autumn,83000.0
+77,Amsterdam,10/10/2024,10/17/2024,7.0,41.0,Male,Germany,Hotel,49800.0,Train,12450.0,Canals/Culture,Autumn,62250.0
+78,Phuket,01/01/2025,01-08-2025,7.0,32.0,Female,British,Resort,58100.0,Plane,66400.0,Beach/Nightlife,Winter,124500.0
+79,Phuket,,6/20/2023,5.0,28.0,Female,Canadian,Resort,66400.0,Flight,41500.0,Beach/Nightlife,Flexible,107900.0
+80,New York,,8/29/2023,14.0,29.0,Female,British,Hotel,166000.0,Flight,83000.0,Metropolis/Shopping,Flexible,249000.0
+81,Sydney,,11/30/2023,10.0,33.0,Female,Australian,Hostel,41500.0,Flight,99600.0,Coastal/City,Flexible,141100.0
+82,Amsterdam,,2/21/2024,7.0,31.0,Female,Dutch,Hotel,99600.0,Train,16600.0,Canals/Culture,Flexible,116200.0
+83,Barcelona,,5/22/2024,7.0,36.0,Male,Spanish,Airbnb,66400.0,Train,8300.0,Architecture/Beach,Flexible,74700.0
+84,Marrakech,,8/27/2024,7.0,26.0,Female,Moroccan,Riad,49800.0,Flight,33200.0,Leisure/General,Flexible,83000.0
+85,Bali,,8/25/2023,10.0,28.0,Male,Chinese,Resort,124500.0,Plane,58100.0,Tropical/Relax,Flexible,182600.0
+86,London,,7/28/2023,6.0,35.0,Female,British,Hotel,99600.0,Train,12450.0,History/Culture,Flexible,112050.0
+87,New York,,11/25/2023,5.0,27.0,Female,American,Airbnb,49800.0,Bus,8300.0,Metropolis/Shopping,Flexible,58100.0
+88,Bangkok,,9/23/2023,8.0,40.0,Male,Indian,Hostel,33200.0,Plane,41500.0,Culture/Street Food,Flexible,74700.0
+89,Paris,,12/28/2023,6.0,24.0,Female,Vietnamese,Hotel,116200.0,Train,8300.0,Romance/Art,Flexible,124500.0
+90,Barcelona,,10/28/2023,8.0,31.0,Female,Spanish,Hotel,91300.0,Train,12450.0,Architecture/Beach,Flexible,103750.0
+91,Thailand,,6/22/2022,7.0,45.0,Male,Canadian,Hostel,16600.0,Train,12450.0,Leisure/General,Flexible,29050.0
+92,Australia,,09-02-2022,13.0,28.0,Female,British,Hotel,83000.0,Car rental,41500.0,Leisure/General,Flexible,124500.0
+93,Italy,,2/20/2023,6.0,31.0,Female,American,Hostel,14940.0,Train,9960.0,Leisure/General,Flexible,24900.0
+94,Spain,,3/31/2023,8.0,27.0,Male,Korean,Hotel,74700.0,Car rental,33200.0,Leisure/General,Flexible,107900.0
+95,Canada,,4/26/2023,7.0,38.0,Female,Australian,Airbnb,29050.0,Bus,6225.0,Leisure/General,Flexible,35275.0
+96,Rio de Janeiro,,11/27/2022,7.0,30.0,Female,Brazilian,Hotel,99600.0,Plane,58100.0,Festivals/Beach,Flexible,157700.0
+97,Barcelona,,8/25/2023,7.0,27.0,Female,Spanish,Hostel,49800.0,Plane,49800.0,Architecture/Beach,Flexible,99600.0
+98,New York City,,9/22/2022,7.0,41.0,Male,American,Hotel,124500.0,Plane,41500.0,Leisure/General,Flexible,166000.0
+99,Amsterdam,,6/28/2023,8.0,31.0,Female,Dutch,Hotel,91300.0,Plane,58100.0,Canals/Culture,Flexible,149400.0
+100,Paris,,8/22/2023,7.0,31.0,Female,Canadian,Hotel,99600.0,Train,24900.0,Romance/Art,Flexible,124500.0
+101,New York,,12/31/2023,7.0,28.0,Female,Canadian,Hotel,116200.0,Flight,66400.0,Metropolis/Shopping,Flexible,182600.0
+102,Rio de Janeiro,,1/24/2024,9.0,30.0,Male,Brazilian,Airbnb,66400.0,Train,12450.0,Festivals/Beach,Flexible,78850.0
+103,London,,3/23/2024,8.0,35.0,Male,British,Hotel,83000.0,Train,16600.0,History/Culture,Flexible,99600.0
+104,Los Angeles,,6/27/2024,7.0,26.0,Male,Chinese,Hotel,99600.0,Car rental,24900.0,Leisure/General,Flexible,124500.0
+105,Rome,,7/23/2024,8.0,33.0,Female,Italian,Airbnb,66400.0,Train,8300.0,History/Food,Flexible,74700.0
+106,Sydney,,6/29/2023,6.0,43.0,Male,Australian,Hotel,124500.0,Plane,99600.0,Coastal/City,Flexible,224100.0
+107,Barcelona,,8/25/2023,7.0,31.0,Female,Spanish,Vacation rental,74700.0,Plane,58100.0,Architecture/Beach,Flexible,132800.0
+108,New York,,7/26/2024,6.0,25.0,Male,American,Vacation rental,83000.0,Plane,66400.0,Metropolis/Shopping,Flexible,149400.0
+109,Rome,,2/20/2025,6.0,41.0,Male,Italian,Hotel,107900.0,Train,8300.0,History/Food,Flexible,116200.0
+110,Bali,,5/29/2025,8.0,37.0,Female,British,Resort,149400.0,Plane,83000.0,Tropical/Relax,Flexible,232400.0
+111,Cancun,,4/22/2023,7.0,42.0,Female,Mexican,Resort,66400.0,Plane,41500.0,Leisure/General,Flexible,107900.0
+112,Bangkok,,5/22/2024,7.0,27.0,Female,Korean,Hotel,33200.0,Plane,33200.0,Culture/Street Food,Flexible,66400.0
+113,New York,,8/27/2024,7.0,60.0,Male,American,Hotel,124500.0,Plane,83000.0,Metropolis/Shopping,Flexible,207500.0
+114,Rome,,4/22/2025,7.0,41.0,Male,American,Hotel,8300.0,,0.0,History/Food,Flexible,8300.0
+115,Paris,,6/20/2021,6.0,35.0,Male,American,Hotel,66400.0,Plane,41500.0,Romance/Art,Flexible,107900.0
+116,New York,,10/20/2021,6.0,31.0,Female,American,Airbnb,58100.0,Car rental,16600.0,Metropolis/Shopping,Flexible,74700.0
+117,London,,11/30/2021,11.0,29.0,Male,British,Hostel,24900.0,Plane,33200.0,History/Culture,Flexible,58100.0
+118,Bangkok,,2/20/2022,7.0,26.0,Male,Vietnamese,Airbnb,33200.0,Train,8300.0,Culture/Street Food,Flexible,41500.0
+119,Bali,,4/25/2022,11.0,33.0,Male,Indonesian,Villa,124500.0,Car rental,24900.0,Tropical/Relax,Flexible,149400.0
+120,Paris,,6/20/2022,5.0,35.0,Male,USA,Hotel,41500.0,Plane,66400.0,Romance/Art,Flexible,107900.0
+121,Sydney,,12-02-2022,9.0,45.0,Male,South Korea,Hostel,16600.0,Plane,99600.0,Coastal/City,Flexible,116200.0
+122,London,,2/19/2023,5.0,37.0,Female,UK,Hotel,49800.0,Plane,58100.0,History/Culture,Flexible,107900.0
+123,Rome,,8/27/2023,7.0,31.0,Female,Taiwan,Hotel,58100.0,Plane,74700.0,History/Food,Flexible,132800.0
+124,Bali,,7/28/2024,6.0,29.0,Female,South Korea,Villa,99600.0,Plane,83000.0,Tropical/Relax,Flexible,182600.0
+125,Paris,,5/20/2022,5.0,35.0,Male,USA,Hotel,83000.0,Plane,66400.0,Romance/Art,Flexible,149400.0
+126,New York,,6/25/2022,5.0,42.0,Male,Hong Kong,Hotel,99600.0,Car rental,16600.0,Metropolis/Shopping,Flexible,116200.0
+127,Santorini,,7/22/2022,7.0,27.0,Male,Greece,Airbnb,83000.0,Ferry,12450.0,Leisure/General,Flexible,95450.0
+128,Dubai,,8/30/2022,5.0,29.0,Female,United Arab Emirates,Hotel,124500.0,Car rental,24900.0,Luxury/Modern,Flexible,149400.0
+129,Paris,,3/22/2022,7.0,47.0,Male,Canadian,Hotel,99600.0,Train,41500.0,Romance/Art,Flexible,141100.0
+130,Bali,,7/30/2022,10.0,29.0,Female,Korean,Hostel,41500.0,Plane,66400.0,Tropical/Relax,Flexible,107900.0
+131,Athens,,9/30/2022,10.0,35.0,Female,Korean,Airbnb,58100.0,Plane,74700.0,Leisure/General,Flexible,132800.0
+132,Paris,,01-01-2023,8.0,28.0,Male,American,Hostel,33200.0,Plane,58100.0,Romance/Art,Flexible,91300.0
+133,Tokyo,,5/22/2023,7.0,28.0,Female,British,Airbnb,581000.0,Train,124500.0,Urban/Tech,Flexible,705500.0
+134,Sydney,,6/21/2023,6.0,31.0,Female,Australian,Hotel,498000.0,Airplane,249000.0,Coastal/City,Flexible,747000.0
+135,New York City,,7/22/2023,7.0,27.0,Female,American,Hotel,664000.0,Airplane,207500.0,Leisure/General,Flexible,871500.0
+136,Vancouver,,8/21/2023,6.0,29.0,Female,Canadian,Hotel,415000.0,Airplane,249000.0,Nature/Scenic,Flexible,664000.0
+137,Barcelona,,9/22/2023,7.0,25.0,Female,Spanish,Airbnb,498000.0,Airplane,207500.0,Architecture/Beach,Flexible,705500.0
+138,Italy,,02/10/2024,14.0,47.0,Male,Brazilian,Riad,532943.0,Airplane,149234.0,Leisure/General,Flexible,682177.0
+139,Bangkok,,07/25/2026,8.0,41.0,Male,Indonesian,Hostel,115453.0,Bus,53618.0,Culture/Street Food,Flexible,169071.0
+140,Cape Town,,05/05/2024,8.0,43.0,Male,Japan,Villa,127986.0,Ferry,226424.0,Nature/Adventure,Flexible,354410.0
+141,Australia,,07/23/2026,7.0,38.0,Male,South African,Villa,77771.0,Car,160522.0,Leisure/General,Flexible,238293.0
+142,Seoul,,02/16/2024,14.0,51.0,Female,Chinese,Hostel,94537.0,Car rental,63910.0,Nightlife/Culture,Flexible,158447.0
+143,Athens,,03/21/2024,7.0,41.0,Female,Scottish,Airbnb,425043.0,Plane,134460.0,Leisure/General,Flexible,559503.0
+144,Italy,,07/25/2025,14.0,26.0,Male,Italy,Guesthouse,397902.0,Subway,95699.0,Leisure/General,Flexible,493601.0
+145,Rome,,11/13/2023,11.0,56.0,Female,Moroccan,Resort,334158.0,Ferry,189572.0,History/Food,Flexible,523730.0
+146,Marrakech,,11/02/2025,13.0,24.0,Female,Brazilian,Villa,639100.0,Ferry,134626.0,Leisure/General,Flexible,773726.0
+147,New York,,02/09/2024,13.0,30.0,Male,German,Resort,248751.0,Car,146910.0,Metropolis/Shopping,Flexible,395661.0
+148,Japan,,03/21/2025,5.0,42.0,Male,Emirati,Guesthouse,314819.0,Bus,110473.0,Leisure/General,Flexible,425292.0
+149,New York City,,12/03/2026,10.0,48.0,Male,Chinese,Hotel,254395.0,Car,139606.0,Leisure/General,Flexible,394001.0
+150,Amsterdam,,05/30/2025,3.0,22.0,Male,Emirati,Villa,439983.0,Car rental,205840.0,Canals/Culture,Flexible,645823.0
+151,New York City,,06/23/2026,13.0,22.0,Female,Greece,Resort,63495.0,Car,64408.0,Leisure/General,Flexible,127903.0
+152,New York,,11/12/2025,13.0,22.0,Male,South African,Resort,645076.0,Bus,82585.0,Metropolis/Shopping,Flexible,727661.0
+153,Paris,,07/17/2024,8.0,58.0,Male,Scottish,Guesthouse,42496.0,Subway,33283.0,Romance/Art,Flexible,75779.0
+154,Dubai,,11/11/2026,13.0,30.0,Male,United Kingdom,Guesthouse,426703.0,Train,25896.0,Luxury/Modern,Flexible,452599.0
+155,Italy,,09/25/2026,10.0,40.0,Male,Australian,Hostel,600090.0,Car rental,122342.0,Leisure/General,Flexible,722432.0
+156,Barcelona,,03/02/2025,8.0,43.0,Female,German,Resort,502897.0,Subway,181272.0,Architecture/Beach,Flexible,684169.0
+157,Tokyo,,06/16/2024,6.0,25.0,Female,Taiwan,Riad,358062.0,Train,155459.0,Urban/Tech,Flexible,513521.0
+158,Rome,,03/27/2024,6.0,55.0,Male,Cambodia,Hotel,422636.0,Car,194469.0,History/Food,Flexible,617105.0
+159,New York City,,11/13/2025,12.0,20.0,Male,Indian,Villa,127405.0,Car,210239.0,Leisure/General,Flexible,337644.0
+160,Phnom Penh,,10/06/2024,7.0,54.0,Male,Brazilian,Hostel,294235.0,Bus,180691.0,Leisure/General,Flexible,474926.0
+161,Phuket,,12/30/2024,6.0,57.0,Male,Canadian,Guesthouse,538089.0,Plane,20584.0,Beach/Nightlife,Flexible,558673.0
+162,Amsterdam,,11/05/2024,11.0,40.0,Male,Korean,Riad,587391.0,Car,155210.0,Canals/Culture,Flexible,742601.0
+163,Cape Town,,02/28/2026,5.0,45.0,Female,Brazil,Airbnb,459986.0,Plane,247755.0,Nature/Adventure,Flexible,707741.0
+164,Paris,,04/24/2025,4.0,30.0,Male,Germany,Hostel,628393.0,Plane,80012.0,Romance/Art,Flexible,708405.0
+165,Dubai,,01/04/2025,7.0,42.0,Female,Indian,Villa,375243.0,Car rental,44986.0,Luxury/Modern,Flexible,420229.0
+166,Auckland,,03/21/2024,6.0,52.0,Male,Singapore,Airbnb,621338.0,Car rental,214223.0,Nature/Peaceful,Flexible,835561.0
+167,Dubai,,06/20/2026,3.0,38.0,Female,Australian,Airbnb,290998.0,Plane,211152.0,Luxury/Modern,Flexible,502150.0
+168,Barcelona,,12/10/2025,4.0,27.0,Male,Australian,Guesthouse,402965.0,Subway,232732.0,Architecture/Beach,Flexible,635697.0
+169,Sydney,,01/07/2025,13.0,42.0,Male,UK,Vacation rental,302618.0,Car rental,31291.0,Coastal/City,Flexible,333909.0
+170,Phuket,,07/06/2026,10.0,38.0,Female,New Zealander,Villa,584154.0,Plane,120350.0,Beach/Nightlife,Flexible,704504.0
+171,Japan,,12/23/2026,7.0,29.0,Female,Indian,Guesthouse,72957.0,Car,190485.0,Leisure/General,Flexible,263442.0
+172,Hawaii,,01/22/2024,4.0,38.0,Male,USA,Guesthouse,260122.0,Train,244103.0,Leisure/General,Flexible,504225.0
+173,Bali,,06/14/2025,5.0,50.0,Female,Korean,Guesthouse,349845.0,Car,68226.0,Tropical/Relax,Flexible,418071.0
+174,Bali,,11/08/2024,14.0,53.0,Female,UK,Villa,355323.0,Airplane,198702.0,Tropical/Relax,Flexible,554025.0
+175,Auckland,,12/22/2026,11.0,52.0,Male,South Korea,Guesthouse,498249.0,Plane,105659.0,Nature/Peaceful,Flexible,603908.0
+176,Amsterdam,,08/02/2026,12.0,27.0,Male,Italian,Hotel,233479.0,Subway,40836.0,Canals/Culture,Flexible,274315.0
+177,London,,02/04/2025,14.0,35.0,Male,Japan,Resort,503312.0,Car rental,120018.0,History/Culture,Flexible,623330.0
+178,Japan,,04/24/2025,14.0,45.0,Female,South Korean,Hotel,645491.0,Subway,109477.0,Leisure/General,Flexible,754968.0
+179,Dubai,,02/17/2024,3.0,50.0,Female,USA,Riad,368935.0,Train,48223.0,Luxury/Modern,Flexible,417158.0
+180,Santorini,,05/20/2025,12.0,23.0,Male,Italy,Hostel,266264.0,Plane,126907.0,Leisure/General,Flexible,393171.0
+181,Paris,,10/31/2026,3.0,40.0,Male,Canadian,Guesthouse,444631.0,Car,24153.0,Romance/Art,Flexible,468784.0
+182,Greece,,09/08/2024,4.0,28.0,Male,UK,Resort,175711.0,Car rental,94786.0,Leisure/General,Flexible,270497.0
+183,Phnom Penh,,03/08/2026,14.0,56.0,Male,United Arab Emirates,Resort,380057.0,Flight,17845.0,Leisure/General,Flexible,397902.0
+184,Cape Town,,05/30/2024,14.0,47.0,Male,Australian,Vacation rental,283943.0,Flight,65072.0,Nature/Adventure,Flexible,349015.0
+185,Cancun,,10/01/2025,5.0,38.0,Male,Canada,Vacation rental,411348.0,Flight,130808.0,Leisure/General,Flexible,542156.0
+186,Sydney,,10/02/2024,12.0,51.0,Male,Spanish,Airbnb,186999.0,Subway,234060.0,Coastal/City,Flexible,421059.0
+187,Cape Town,,11/12/2026,14.0,38.0,Male,British,Hostel,637689.0,Car rental,215136.0,Nature/Adventure,Flexible,852825.0
+188,Seoul,,07/12/2026,14.0,26.0,Female,Moroccan,Guesthouse,577099.0,Ferry,38595.0,Nightlife/Culture,Flexible,615694.0
+189,Cancun,,03/15/2026,13.0,27.0,Male,Chinese,Hostel,119603.0,Car rental,242609.0,Leisure/General,Flexible,362212.0
+190,Cape Town,,04/16/2024,14.0,36.0,Male,Chinese,Riad,308345.0,Car rental,198785.0,Nature/Adventure,Flexible,507130.0
+191,Greece,,11/24/2024,9.0,27.0,Female,USA,Villa,295978.0,Flight,158945.0,Leisure/General,Flexible,454923.0
+192,Cape Town,,06/02/2025,14.0,28.0,Female,Dutch,Riad,241032.0,Plane,163676.0,Nature/Adventure,Flexible,404708.0
+193,Amsterdam,,09/28/2024,9.0,20.0,Female,Cambodia,Riad,617520.0,Ferry,143424.0,Canals/Culture,Flexible,760944.0
+194,Egypt,,10/08/2024,12.0,36.0,Female,United Kingdom,Hostel,627646.0,Airplane,37765.0,Leisure/General,Flexible,665411.0
+195,Rome,,01/15/2026,6.0,59.0,Female,United Kingdom,Hostel,141017.0,Train,54531.0,History/Food,Flexible,195548.0
+196,New York,,01/30/2024,5.0,51.0,Female,Indonesian,Airbnb,530453.0,Ferry,73704.0,Metropolis/Shopping,Flexible,604157.0
+197,Marrakech,,03/06/2024,3.0,46.0,Male,Moroccan,Airbnb,293073.0,Bus,124583.0,Leisure/General,Flexible,417656.0
+198,Seoul,,01/29/2024,6.0,24.0,Female,Canada,Guesthouse,434920.0,Ferry,231570.0,Nightlife/Culture,Flexible,666490.0
+199,Canada,,04/24/2026,8.0,47.0,Female,Spain,Riad,388855.0,Plane,119769.0,Leisure/General,Flexible,508624.0
+200,Phuket,,01/04/2025,14.0,54.0,Female,South African,Airbnb,315566.0,Car,229412.0,Beach/Nightlife,Flexible,544978.0
+201,New York City,,01/13/2024,6.0,49.0,Female,United Arab Emirates,Vacation rental,280125.0,Airplane,34030.0,Leisure/General,Flexible,314155.0
+202,New York,,03/31/2026,6.0,53.0,Male,Mexican,Guesthouse,174549.0,Car,217211.0,Metropolis/Shopping,Flexible,391760.0
+203,Rome,,04/04/2025,3.0,48.0,Male,South Korea,Guesthouse,230740.0,Car rental,227254.0,History/Food,Flexible,457994.0
+204,Amsterdam,,12/13/2024,10.0,21.0,Female,Cambodia,Riad,412178.0,Train,43658.0,Canals/Culture,Flexible,455836.0
+205,Marrakech,,06/25/2026,4.0,52.0,Female,Italian,Hotel,421308.0,Subway,72957.0,Leisure/General,Flexible,494265.0
+206,Sydney,,11/20/2026,11.0,29.0,Male,Cambodia,Resort,472021.0,Train,144918.0,Coastal/City,Flexible,616939.0
+207,Rio de Janeiro,,11/07/2023,3.0,29.0,Female,Canada,Guesthouse,377982.0,Subway,218788.0,Festivals/Beach,Flexible,596770.0
+208,Spain,,09/06/2026,5.0,46.0,Male,Brazil,Villa,532860.0,Car rental,178284.0,Leisure/General,Flexible,711144.0
+209,Cape Town,,09/03/2025,14.0,20.0,Female,Spanish,Resort,510782.0,Flight,154131.0,Nature/Adventure,Flexible,664913.0
+210,Bangkok,,02/24/2026,7.0,25.0,Male,Germany,Resort,534769.0,Car,66981.0,Culture/Street Food,Flexible,601750.0
+211,Auckland,,12/29/2026,11.0,28.0,Male,Italian,Airbnb,291247.0,Plane,152886.0,Nature/Peaceful,Flexible,444133.0
+212,Cape Town,,06/11/2024,4.0,22.0,Female,Indian,Guesthouse,407862.0,Flight,231570.0,Nature/Adventure,Flexible,639432.0
+213,Sydney,,06/07/2024,3.0,20.0,Female,Australian,Villa,549875.0,Bus,234807.0,Coastal/City,Flexible,784682.0
+214,Bali,,08/14/2026,5.0,26.0,Male,UK,Vacation rental,649475.0,Train,197706.0,Tropical/Relax,Flexible,847181.0
+215,Seoul,,08/22/2024,7.0,45.0,Male,Italy,Resort,501486.0,Subway,178865.0,Nightlife/Culture,Flexible,680351.0
+216,London,,04/23/2026,14.0,30.0,Female,Indonesian,Riad,207168.0,Subway,31540.0,History/Culture,Flexible,238708.0
+217,Spain,,11/16/2024,5.0,38.0,Female,Japan,Riad,528627.0,Car rental,87565.0,Leisure/General,Flexible,616192.0
+218,Cape Town,,07/18/2026,11.0,42.0,Male,China,Vacation rental,545476.0,Ferry,148736.0,Nature/Adventure,Flexible,694212.0
+219,Sydney,,07/16/2025,6.0,59.0,Female,Spain,Hostel,513853.0,Car,146910.0,Coastal/City,Flexible,660763.0
+220,Bangkok,,03/23/2024,6.0,27.0,Male,Brazilian,Airbnb,321210.0,Flight,122840.0,Culture/Street Food,Flexible,444050.0
+221,Tokyo,,05/31/2024,10.0,59.0,Male,Italy,Riad,516260.0,Bus,140519.0,Urban/Tech,Flexible,656779.0
+222,Cape Town,,03/27/2024,10.0,46.0,Male,Taiwan,Riad,340300.0,Plane,58017.0,Nature/Adventure,Flexible,398317.0
+223,Sydney,,10/30/2026,10.0,29.0,Male,Singapore,Resort,87482.0,Car,233811.0,Coastal/City,Flexible,321293.0
+224,Paris,,06/29/2024,4.0,28.0,Female,Chinese,Riad,525722.0,Car,75364.0,Romance/Art,Flexible,601086.0
+225,Los Angeles,,11/23/2025,5.0,40.0,Male,Chinese,Airbnb,171561.0,Airplane,202188.0,Leisure/General,Flexible,373749.0
+226,Barcelona,,11/25/2025,8.0,39.0,Female,Canada,Hostel,583075.0,Bus,113461.0,Architecture/Beach,Flexible,696536.0
+227,Bali,,04/23/2025,9.0,29.0,Female,New Zealander,Riad,499909.0,Train,25564.0,Tropical/Relax,Flexible,525473.0
+228,Santorini,,12/14/2025,6.0,35.0,Female,Canadian,Riad,231819.0,Subway,222689.0,Leisure/General,Flexible,454508.0
+229,Bangkok,,01/18/2024,9.0,43.0,Female,China,Resort,512774.0,Car rental,71131.0,Culture/Street Food,Flexible,583905.0
+230,Honolulu,,10/06/2024,5.0,28.0,Female,Dutch,Vacation rental,220946.0,Car,247755.0,Leisure/General,Flexible,468701.0
+231,Dubai,,06/19/2026,4.0,21.0,Female,Taiwan,Airbnb,453180.0,Ferry,132800.0,Luxury/Modern,Flexible,585980.0
+232,Cape Town,,06/18/2026,5.0,48.0,Male,Australian,Riad,300543.0,Train,128069.0,Nature/Adventure,Flexible,428612.0
+233,Cape Town,,04/29/2024,5.0,45.0,Male,British,Hotel,130808.0,Flight,124749.0,Nature/Adventure,Flexible,255557.0
+234,Greece,,08/02/2025,12.0,41.0,Female,Chinese,Airbnb,355738.0,Flight,218871.0,Leisure/General,Flexible,574609.0
+235,Australia,,07/17/2026,7.0,57.0,Male,China,Hostel,644578.0,Airplane,36022.0,Leisure/General,Flexible,680600.0
+236,Sydney,,01/05/2024,10.0,41.0,Male,United Arab Emirates,Airbnb,168905.0,Subway,66400.0,Coastal/City,Flexible,235305.0
+237,Dubai,,11/29/2026,13.0,36.0,Male,Japan,Resort,408609.0,Bus,158281.0,Luxury/Modern,Flexible,566890.0
+238,Marrakech,,03/24/2024,13.0,58.0,Male,Italian,Riad,625737.0,Bus,102505.0,Leisure/General,Flexible,728242.0
+239,Rio de Janeiro,,05/05/2025,3.0,28.0,Female,Taiwanese,Guesthouse,76858.0,Airplane,181189.0,Festivals/Beach,Flexible,258047.0
+240,Amsterdam,,09/08/2026,10.0,49.0,Female,New Zealander,Hostel,574941.0,Plane,138693.0,Canals/Culture,Flexible,713634.0
+241,Bangkok,,11/15/2026,10.0,45.0,Male,Canadian,Hotel,509703.0,Car,210571.0,Culture/Street Food,Flexible,720274.0
+242,Auckland,,08/18/2024,3.0,34.0,Female,Brazilian,Guesthouse,159111.0,Train,180359.0,Nature/Peaceful,Flexible,339470.0
+243,Santorini,,03/10/2024,12.0,55.0,Female,German,Airbnb,616358.0,Ferry,180691.0,Leisure/General,Flexible,797049.0
+244,New York,,07/05/2024,11.0,51.0,Male,United Arab Emirates,Vacation rental,508541.0,Plane,196212.0,Metropolis/Shopping,Flexible,704753.0
+245,Sydney,,03/23/2025,14.0,39.0,Female,German,Guesthouse,42413.0,Train,165585.0,Coastal/City,Flexible,207998.0
+246,Thailand,,11/20/2025,7.0,37.0,Male,Italian,Airbnb,225843.0,Train,126492.0,Leisure/General,Flexible,352335.0
+247,Phnom Penh,,05/06/2025,12.0,58.0,Female,United Arab Emirates,Resort,378646.0,Train,78601.0,Leisure/General,Flexible,457247.0
+248,Phuket,,03/24/2026,6.0,35.0,Female,Indonesian,Hotel,237463.0,Flight,52705.0,Beach/Nightlife,Flexible,290168.0
+249,Phuket,,04/23/2024,13.0,21.0,Male,Moroccan,Riad,593284.0,Car,50630.0,Beach/Nightlife,Flexible,643914.0
+250,Sydney,,10/23/2025,6.0,45.0,Female,Spanish,Resort,193971.0,Bus,80925.0,Coastal/City,Flexible,274896.0
+251,Sydney,,12/20/2025,7.0,42.0,Female,Emirati,Hotel,603493.0,Car,139274.0,Coastal/City,Flexible,742767.0
+252,Phuket,,03/17/2024,8.0,30.0,Male,Cambodia,Resort,509869.0,Subway,19090.0,Beach/Nightlife,Flexible,528959.0
+253,Canada,,07/13/2024,11.0,39.0,Male,Brazil,Vacation rental,354161.0,Ferry,102588.0,Leisure/General,Flexible,456749.0
+254,Bangkok,,05/09/2025,8.0,22.0,Male,South Korea,Airbnb,288923.0,Plane,92462.0,Culture/Street Food,Flexible,381385.0
+255,Greece,,03/19/2026,14.0,44.0,Male,Scottish,Guesthouse,406700.0,Car rental,214306.0,Leisure/General,Flexible,621006.0
+256,Auckland,,04/30/2025,12.0,48.0,Male,American,Vacation rental,75447.0,Bus,30461.0,Nature/Peaceful,Flexible,105908.0
+257,New York,,03/13/2024,8.0,26.0,Male,South Korea,Villa,522070.0,Flight,120101.0,Metropolis/Shopping,Flexible,642171.0
+258,Los Angeles,,09/09/2025,6.0,26.0,Female,German,Resort,199532.0,Car rental,243605.0,Leisure/General,Flexible,443137.0
+259,Barcelona,,04/26/2026,3.0,55.0,Male,China,Vacation rental,207251.0,Airplane,97691.0,Architecture/Beach,Flexible,304942.0
+260,Paris,,07/01/2026,6.0,43.0,Female,Indonesian,Hostel,407198.0,Flight,100762.0,Romance/Art,Flexible,507960.0
+261,Amsterdam,,06/12/2026,14.0,36.0,Female,Cambodia,Villa,59677.0,Plane,125745.0,Canals/Culture,Flexible,185422.0
+262,Italy,,06/21/2025,6.0,50.0,Female,Germany,Villa,262280.0,Train,234060.0,Leisure/General,Flexible,496340.0
+263,Australia,,10/24/2025,5.0,27.0,Female,UK,Resort,280706.0,Ferry,50381.0,Leisure/General,Flexible,331087.0
+264,Cape Town,,10/01/2025,12.0,55.0,Male,Moroccan,Vacation rental,456500.0,Airplane,100928.0,Nature/Adventure,Flexible,557428.0
+265,Sydney,,08/21/2026,7.0,38.0,Female,USA,Airbnb,564566.0,Flight,180525.0,Coastal/City,Flexible,745091.0
+266,Cape Town,,12/06/2023,13.0,50.0,Female,Australian,Villa,291081.0,Airplane,166166.0,Nature/Adventure,Flexible,457247.0
+267,New York City,,09/18/2026,6.0,22.0,Male,Italian,Vacation rental,630883.0,Car,59843.0,Leisure/General,Flexible,690726.0
+268,Barcelona,,05/17/2026,13.0,46.0,Female,Spain,Hostel,441560.0,Subway,132800.0,Architecture/Beach,Flexible,574360.0
+269,Tokyo,,09/01/2026,12.0,41.0,Female,South Korean,Vacation rental,404957.0,Bus,239870.0,Urban/Tech,Flexible,644827.0
+270,Sydney,,11/15/2026,14.0,22.0,Male,China,Airbnb,314404.0,Bus,222689.0,Coastal/City,Flexible,537093.0
+271,Seoul,,11/26/2023,8.0,51.0,Female,Brazilian,Airbnb,146080.0,Airplane,228914.0,Nightlife/Culture,Flexible,374994.0
+272,Hawaii,,06/06/2026,6.0,44.0,Female,Canadian,Resort,661427.0,Flight,50713.0,Leisure/General,Flexible,712140.0
+273,Sydney,,09/28/2025,5.0,50.0,Female,Taiwanese,Airbnb,576103.0,Plane,127737.0,Coastal/City,Flexible,703840.0
+274,Bangkok,,07/08/2024,5.0,35.0,Female,Korean,Airbnb,313823.0,Plane,103916.0,Culture/Street Food,Flexible,417739.0
+275,Mexico,,11/02/2024,9.0,28.0,Female,China,Riad,85739.0,Car rental,18509.0,History/Beach,Flexible,104248.0
+276,Brazil,,05/31/2025,12.0,49.0,Male,Japan,Hostel,395329.0,Train,104165.0,Leisure/General,Flexible,499494.0
+277,Sydney,,04/19/2025,10.0,46.0,Male,UK,Guesthouse,576850.0,Subway,21165.0,Coastal/City,Flexible,598015.0
+278,Cape Town,,11/27/2025,9.0,20.0,Male,Mexican,Villa,69471.0,Car,209409.0,Nature/Adventure,Flexible,278880.0
+279,London,,06/27/2026,8.0,32.0,Female,Brazilian,Vacation rental,296310.0,Car rental,96363.0,History/Culture,Flexible,392673.0
+280,London,,05/08/2026,11.0,26.0,Male,Indonesian,Hostel,406202.0,Ferry,163344.0,History/Culture,Flexible,569546.0
+281,Seoul,,07/17/2026,14.0,40.0,Male,British,Guesthouse,41002.0,Flight,92877.0,Nightlife/Culture,Flexible,133879.0
+282,Egypt,,07/05/2024,9.0,54.0,Female,American,Guesthouse,96861.0,Ferry,246261.0,Leisure/General,Flexible,343122.0
+283,London,,05/21/2024,10.0,28.0,Male,Brazil,Guesthouse,480238.0,Bus,157285.0,History/Culture,Flexible,637523.0
+284,Dubai,,03/16/2026,12.0,38.0,Female,Brazilian,Villa,643333.0,Train,87731.0,Luxury/Modern,Flexible,731064.0
+285,Rome,,12/19/2023,4.0,37.0,Male,Germany,Hotel,653127.0,Airplane,16766.0,History/Food,Flexible,669893.0
+286,Tokyo,,04/19/2024,7.0,41.0,Female,Indonesian,Villa,56689.0,Car,47725.0,Urban/Tech,Flexible,104414.0
+287,Bangkok,,10/21/2026,5.0,48.0,Female,United Arab Emirates,Vacation rental,478578.0,Bus,89972.0,Culture/Street Food,Flexible,568550.0
